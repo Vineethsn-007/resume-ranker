@@ -1,0 +1,75 @@
+# submission_metadata.yaml
+# Fill in your actual team/participant details before submitting.
+# This file mirrors the portal metadata — must match exactly.
+
+team_name: "YOUR_TEAM_NAME"
+participant_id: "YOUR_REGISTERED_ID"   # e.g. team_xxx — your submission CSV must be named this.csv
+contact_email: "your@email.com"
+github_repo_url: "https://github.com/YOUR_USERNAME/YOUR_REPO"
+
+# Required: a working sandbox link where organizers can run your ranker on a small sample
+# Acceptable: HuggingFace Spaces, Streamlit Cloud, Replit, Colab, Docker, Binder
+sandbox_url: "https://YOUR_SANDBOX_URL"
+
+# Compute environment used for final submission run
+compute_environment:
+  cpu: "Intel Core i7 / AMD Ryzen 7 (or your actual CPU)"
+  ram_gb: 16
+  os: "Windows 11 / Ubuntu 22.04 / macOS"
+  python_version: "3.11"
+  gpu: "none"                           # CPU-only as required by spec
+
+# Runtime stats (fill in from your actual run output)
+runtime_stats:
+  total_wall_clock_seconds: 0           # fill in from rank.py output
+  peak_ram_gb: 0.0                      # profile with memory_profiler or Task Manager
+  network_calls_during_ranking: 0       # must be 0
+
+# Methodology summary (1-3 paragraphs for Stage 4 review)
+methodology_summary: |
+  Five-component weighted scoring pipeline with no external API calls or GPU dependencies.
+
+  Component 1 — Role Fit (35%): Title classification against a curated taxonomy of
+  ML/AI/search titles (Tier 1) vs adjacent engineering titles (Tier 2) vs wrong-domain titles
+  (Tier 3) vs disqualified roles (HR, marketing, sales — hard cap at 0.25 total score).
+  Current title is the primary signal; career title trajectory and AI keyword density in
+  job descriptions are secondary signals. Prevents the keyword-stuffer trap explicitly
+  described in the challenge spec.
+
+  Component 2 — Technical Depth (30%): Skills are scored on evidence (duration_months,
+  endorsements, career description corroboration), not raw presence. The honeypot pattern
+  (expert proficiency + 0 months used + 0 endorsements) is explicitly penalized as a
+  plausibility check. Redrob platform assessment scores act as a third-party-validated
+  evidence boost.
+
+  Component 3 — Career Substance (20%): Production-signal regex patterns applied to
+  actual career descriptions — not skill lists. Rewards candidates who built real retrieval,
+  ranking, embedding, or recommendation systems in job descriptions even if they don't
+  list those terms as skills. Implements all JD disqualifier patterns (pure research,
+  LLM-wrapper-only, pure consulting, senior-no-code) as score multipliers.
+
+  Component 4 — Behavioral Signals (10%): All 23 redrob signals consumed; acts as a
+  0.80–1.0x multiplier on the base score. last_active_date recency (40%), availability
+  composite (40%), and engagement quality (20%) are sub-components.
+
+  Component 5 — Education (5%): CS/ML field relevance + degree level + institution tier.
+  Minor signal given the JD's emphasis on production experience over credentials.
+
+  Final score = weighted_sum * behavioral_multiplier, with role_fit hard gate
+  capping disqualified-title candidates below 0.28.
+
+# AI tools used (be honest — this is checked for consistency at Stage 5 interview)
+ai_tools_used:
+  - "Claude (Anthropic) — used for code generation and architecture design"
+
+ai_usage_summary: |
+  Claude was used to generate the initial code structure, scoring logic, and module
+  organization. The author reviewed, tested, and debugged all generated code against
+  the challenge spec and sample data. Architecture decisions (weight selection,
+  disqualifier patterns, honeypot detection logic) were driven by close reading of the
+  JD and submission spec, with Claude implementing the chosen design.
+
+# Submission history (fill in your actual submission timestamps)
+submissions:
+  - timestamp: "2025-09-15T00:00:00Z"
+    notes: "Final submission"
