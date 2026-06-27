@@ -91,6 +91,6 @@ python data/validate_submission.py sample_out.csv
 
 ## Sandbox
 
-A hosted Streamlit sandbox is available at: [fill in your HuggingFace/Streamlit URL]
+A hosted Streamlit sandbox is available at: https://resume-ranker-v1.streamlit.app/
 
 It accepts a ≤100 candidate JSON sample, runs the ranker, and displays the ranked output with scores.
