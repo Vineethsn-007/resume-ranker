@@ -1,0 +1,51 @@
+candidate_id,rank,score,reasoning
+CAND_0000031,1,0.8913,"Recommendation Systems Engineer with 6.0yrs total experience | currently at Swiggy | strong evidenced skills: MLflow, FAISS, Pinecone | relevant role as Recommendation Systems Engineer at Swiggy | active GitHub contributor (score 33) | responsive (91% response rate)"
+CAND_0000001,2,0.4255,"Backend Engineer with 6.9yrs total experience | currently at Mindtree | strong evidenced skills: NLP, Image Classification, Fine-tuning LLMs"
+CAND_0000010,3,0.4027,"Data Engineer with 4.6yrs total experience | currently at Ola | strong evidenced skills: GANs, OpenCV, Prompt Engineering | active GitHub contributor (score 34)"
+CAND_0000043,4,0.3735,"Cloud Engineer with 8.3yrs total experience | currently at Swiggy | strong evidenced skills: Elasticsearch, Kubeflow, Haystack"
+CAND_0000027,5,0.3253,"DevOps Engineer with 3.9yrs total experience | currently at Infosys | strong evidenced skills: YOLO, PEFT, Data Science | active GitHub contributor (score 39)"
+CAND_0000011,6,0.2956,"QA Engineer with 2.0yrs total experience | currently at Pied Piper | strong evidenced skills: Recommendation Systems, Kubeflow | active GitHub contributor (score 32)"
+CAND_0000035,7,0.2721,Full Stack Developer with 4.3yrs total experience | currently at Globex Inc | strong evidenced skills: BentoML
+CAND_0000015,8,0.2720,Software Engineer with 5.4yrs total experience | currently at Razorpay
+CAND_0000023,9,0.2534,Software Engineer with 3.7yrs total experience | currently at Acme Corp | active GitHub contributor (score 48) | available quickly (notice 30d)
+CAND_0000014,10,0.2293,"Frontend Engineer with 8.4yrs total experience | currently at Zomato | strong evidenced skills: FAISS, OpenSearch, OpenCV | responsive (80% response rate)"
+CAND_0000021,11,0.2026,"Project Manager (14.5yr) | key skills: Recommendation Systems, Embeddings"
+CAND_0000038,12,0.2021,Java Developer (6.7yr) | key skills: Weaviate | lower response rate (20%) is a concern | notice period 90d (above preferred range)
+CAND_0000025,13,0.1893,Frontend Engineer (7.3yr) | key skills: LangChain | notice period 120d (above preferred range)
+CAND_0000032,14,0.1781,".NET Developer (8.1yr) | key skills: Speech Recognition, Embeddings | notice period 150d (above preferred range)"
+CAND_0000024,15,0.1712,HR Manager (7.5yr) | key skills: Forecasting
+CAND_0000022,16,0.1653,Mechanical Engineer (1.1yr) | lower response rate (27%) is a concern | notice period 150d (above preferred range)
+CAND_0000033,17,0.1589,Graphic Designer (8.6yr) | lower response rate (8%) is a concern
+CAND_0000013,18,0.1545,Civil Engineer (1.1yr) | lower response rate (28%) is a concern
+CAND_0000039,19,0.1524,Marketing Manager (3.9yr)
+CAND_0000007,20,0.1488,Civil Engineer (5.5yr)
+CAND_0000048,21,0.1473,Mobile Developer (9.7yr) | notice period 120d (above preferred range)
+CAND_0000016,22,0.1454,Accountant (5.3yr) | key skills: Kubeflow
+CAND_0000026,23,0.1453,Graphic Designer (6.8yr)
+CAND_0000019,24,0.1449,Project Manager (6.5yr) | lower response rate (34%) is a concern
+CAND_0000046,25,0.1441,Mechanical Engineer (7.8yr)
+CAND_0000049,26,0.1440,Mechanical Engineer (11.8yr) | notice period 120d (above preferred range)
+CAND_0000045,27,0.1431,Project Manager (12.2yr)
+CAND_0000020,28,0.1402,Mechanical Engineer (6.3yr) | key skills: Weights & Biases
+CAND_0000050,29,0.1399,Business Analyst (13.5yr) | key skills: Feature Engineering | notice period 90d (above preferred range)
+CAND_0000004,30,0.1313,Marketing Manager (3.8yr) | lower response rate (26%) is a concern | notice period 120d (above preferred range)
+CAND_0000037,31,0.1311,Business Analyst (14.3yr) | concerns: title-role gap; not marked open-to-work
+CAND_0000041,32,0.1309,Operations Manager (13.7yr) | concerns: title-role gap; low response rate (7%)
+CAND_0000044,33,0.1303,Frontend Engineer (5.7yr) | concerns: title-role gap; not marked open-to-work
+CAND_0000028,34,0.1287,Operations Manager (1.1yr) | concerns: title-role gap; low response rate (14%); not marked open-to-work
+CAND_0000002,35,0.1286,Operations Manager (12.5yr) | concerns: title-role gap; low response rate (29%)
+CAND_0000042,36,0.1240,HR Manager (5.0yr) | concerns: title-role gap; not marked open-to-work
+CAND_0000009,37,0.1239,Mechanical Engineer (11.0yr) | concerns: title-role gap; not marked open-to-work
+CAND_0000029,38,0.1191,Business Analyst (7.2yr) | concerns: title-role gap; low response rate (12%); not marked open-to-work
+CAND_0000030,39,0.1167,Marketing Manager (10.0yr) | concerns: title-role gap; not marked open-to-work
+CAND_0000012,40,0.1146,Operations Manager (1.1yr) | concerns: title-role gap; low response rate (16%); not marked open-to-work
+CAND_0000006,41,0.1111,Business Analyst (6.0yr) | concerns: title-role gap; low response rate (12%); not marked open-to-work
+CAND_0000005,42,0.1104,Accountant (11.0yr) | strengths: Image Classification | concerns: title-role gap
+CAND_0000018,43,0.1079,Frontend Engineer (6.6yr) | strengths: CNN | concerns: title-role gap; low response rate (16%); not marked open-to-work
+CAND_0000034,44,0.1066,Business Analyst (14.5yr) | concerns: title-role gap; low response rate (15%); not marked open-to-work
+CAND_0000017,45,0.1064,Accountant (12.3yr) | concerns: title-role gap; low response rate (27%); not marked open-to-work
+CAND_0000040,46,0.1063,Customer Support (1.6yr) | concerns: title-role gap; not marked open-to-work
+CAND_0000008,47,0.1058,Operations Manager (3.6yr) | concerns: title-role gap; not marked open-to-work
+CAND_0000003,48,0.1040,Customer Support (1.1yr) | concerns: title-role gap; not marked open-to-work
+CAND_0000036,49,0.1017,Project Manager (11.3yr) | strengths: Object Detection | concerns: title-role gap
+CAND_0000047,50,0.0999,Project Manager (2.4yr) | concerns: title-role gap; not marked open-to-work

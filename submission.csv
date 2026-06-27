@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0018499,1,0.9794,"Senior Machine Learning Engineer with 7.2yrs total experience | currently at Zomato | strong evidenced skills: Deep Learning, Weaviate, Recommendation Systems | relevant role as Senior Machine Learning Engineer at Zomato | active GitHub contributor (score 95) | responsive (61% response rate) | available quickly (notice 15d)"
+CAND_0036184,2,0.9761,"Recommendation Systems Engineer with 6.0yrs total experience | currently at CRED | strong evidenced skills: QLoRA, FAISS, GANs | relevant role as Recommendation Systems Engineer at CRED | active GitHub contributor (score 43) | responsive (90% response rate) | available quickly (notice 30d)"
+CAND_0088025,3,0.9738,"Staff Machine Learning Engineer with 8.6yrs total experience | currently at Yellow.ai | strong evidenced skills: Pinecone, QLoRA, LLMs | relevant role as Staff Machine Learning Engineer at Yellow.ai | active GitHub contributor (score 75) | responsive (83% response rate)"
+CAND_0046064,4,0.9735,"Senior NLP Engineer with 8.9yrs total experience | currently at Salesforce | strong evidenced skills: Python, Image Classification, OpenCV | relevant role as Lead AI Engineer at Verloop.io | active GitHub contributor (score 67) | responsive (78% response rate) | available quickly (notice 30d)"
+CAND_0052682,5,0.9731,"NLP Engineer with 6.6yrs total experience | currently at Aganitha | strong evidenced skills: QLoRA, Semantic Search, FAISS | relevant role as NLP Engineer at Aganitha | active GitHub contributor (score 72) | responsive (88% response rate) | available quickly (notice 30d)"
+CAND_0011687,6,0.9682,"Senior NLP Engineer with 7.8yrs total experience | currently at Niramai | strong evidenced skills: TensorFlow, OpenSearch, FAISS | relevant role as Senior NLP Engineer at Niramai | active GitHub contributor (score 76) | responsive (89% response rate) | available quickly (notice 15d)"
+CAND_0055905,7,0.9652,"Senior Machine Learning Engineer with 8.1yrs total experience | currently at Flipkart | strong evidenced skills: Elasticsearch, ASR, Hugging Face Transformers | relevant role as Senior Applied Scientist at Rephrase.ai | responsive (87% response rate) | available quickly (notice 30d)"
+CAND_0081846,8,0.9635,"Lead AI Engineer with 6.7yrs total experience | currently at Razorpay | strong evidenced skills: Data Science, Information Retrieval, LlamaIndex | relevant role as Lead AI Engineer at Razorpay | active GitHub contributor (score 34) | responsive (73% response rate) | available quickly (notice 30d)"
+CAND_0028793,9,0.9617,"Search Engineer with 7.2yrs total experience | currently at Google | strong evidenced skills: Kubeflow, Embeddings, Haystack | relevant role as Search Engineer at Google | active GitHub contributor (score 83)"
+CAND_0079387,10,0.9597,"AI Engineer with 6.9yrs total experience | currently at Microsoft | strong evidenced skills: scikit-learn, Recommendation Systems, Python | relevant role as AI Engineer at BYJU'S | active GitHub contributor (score 64) | responsive (81% response rate) | available quickly (notice 30d)"
+CAND_0046525,11,0.9568,"Senior Machine Learning Engineer (6.1yr) | key skills: Elasticsearch, LangChain | relevant background at LinkedIn"
+CAND_0077337,12,0.9568,"Staff Machine Learning Engineer (7.0yr) | key skills: Semantic Search, QLoRA | relevant background at Razorpay"
+CAND_0002025,13,0.9564,"Senior AI Engineer (5.9yr) | key skills: FAISS, TensorFlow | relevant background at Aganitha"
+CAND_0074735,14,0.9553,"Applied ML Engineer (5.5yr) | key skills: RAG, Prompt Engineering | relevant background at Rephrase.ai | notice period 90d (above preferred range)"
+CAND_0027801,15,0.9538,"NLP Engineer (7.4yr) | key skills: FAISS, Milvus | relevant background at Zoho | notice period 120d (above preferred range)"
+CAND_0071974,16,0.9528,"Senior AI Engineer (7.8yr) | key skills: LoRA, Learning to Rank | relevant background at Netflix"
+CAND_0086022,17,0.9523,"Senior Applied Scientist (5.3yr) | key skills: Vector Search, MLflow | relevant background at Sarvam AI"
+CAND_0009691,18,0.9516,"Applied ML Engineer (6.2yr) | key skills: BentoML, Prompt Engineering | relevant background at LinkedIn | notice period 120d (above preferred range)"
+CAND_0044222,19,0.9500,"AI Engineer (7.7yr) | key skills: Vector Search, LlamaIndex | relevant background at PolicyBazaar"
+CAND_0009024,20,0.9470,"Search Engineer (5.2yr) | key skills: YOLO, Qdrant | relevant background at Google"
+CAND_0075249,21,0.9469,"Applied ML Engineer (6.2yr) | key skills: Sentence Transformers, Milvus | relevant background at upGrad"
+CAND_0069905,22,0.9445,"Applied ML Engineer (6.6yr) | key skills: LoRA, Speech Recognition | relevant background at Sarvam AI | notice period 90d (above preferred range)"
+CAND_0016163,23,0.9438,"Applied ML Engineer (6.7yr) | key skills: Hugging Face Transformers, Computer Vision | relevant background at Verloop.io | notice period 120d (above preferred range)"
+CAND_0008425,24,0.9437,"Senior NLP Engineer (7.8yr) | key skills: Learning to Rank, Qdrant | relevant background at Amazon | notice period 90d (above preferred range)"
+CAND_0044855,25,0.9436,"Senior Data Scientist (6.6yr) | key skills: Object Detection, Learning to Rank | relevant background at Verloop.io"
+CAND_0050454,26,0.9429,"AI Engineer (6.8yr) | key skills: PyTorch, LangChain | relevant background at Rephrase.ai"
+CAND_0070398,27,0.9419,"Machine Learning Engineer (7.2yr) | key skills: Image Classification, Data Science | relevant background at Genpact AI | notice period 120d (above preferred range)"
+CAND_0079064,28,0.9419,"Senior Data Scientist (5.2yr) | key skills: LlamaIndex, OpenSearch | relevant background at Niramai | notice period 120d (above preferred range)"
+CAND_0020877,29,0.9418,"Applied ML Engineer (5.1yr) | key skills: QLoRA, Kubeflow | relevant background at CRED"
+CAND_0005260,30,0.9405,"Senior NLP Engineer (5.2yr) | key skills: Prompt Engineering, Information Retrieval | relevant background at Yellow.ai"
+CAND_0037566,31,0.9393,"Machine Learning Engineer (6.9yr) | strengths: Pinecone, Time Series"
+CAND_0064326,32,0.9380,"Search Engineer (7.6yr) | strengths: scikit-learn, PyTorch"
+CAND_0052328,33,0.9365,"Recommendation Systems Engineer (6.5yr) | strengths: LoRA, OpenSearch"
+CAND_0007412,34,0.9362,"Applied ML Engineer (7.4yr) | strengths: scikit-learn, Data Science"
+CAND_0029367,35,0.9357,"Senior Data Scientist (5.7yr) | strengths: GANs, Haystack"
+CAND_0030953,36,0.9349,"Search Engineer (7.8yr) | strengths: TTS, MLOps | concerns: not marked open-to-work"
+CAND_0010257,37,0.9327,"Senior Data Scientist (6.5yr) | strengths: Milvus, TensorFlow"
+CAND_0062247,38,0.9306,"AI Engineer (7.3yr) | strengths: Image Classification, Pinecone"
+CAND_0058688,39,0.9299,"AI Engineer (6.7yr) | strengths: scikit-learn, Object Detection"
+CAND_0015528,40,0.9284,"Applied ML Engineer (7.4yr) | strengths: Weaviate, BentoML | concerns: not marked open-to-work"
+CAND_0050876,41,0.9280,"Applied ML Engineer (6.0yr) | strengths: Qdrant, MLOps"
+CAND_0005649,42,0.9266,"Senior Data Scientist (7.4yr) | strengths: Haystack, Prompt Engineering"
+CAND_0089552,43,0.9261,"Machine Learning Engineer (6.0yr) | strengths: Weaviate, TensorFlow | concerns: not marked open-to-work"
+CAND_0027691,44,0.9259,"NLP Engineer (6.5yr) | strengths: LoRA, PEFT"
+CAND_0041669,45,0.9257,"Recommendation Systems Engineer (8.0yr) | strengths: FAISS, Milvus"
+CAND_0081686,46,0.9255,"Search Engineer (6.0yr) | strengths: Machine Learning, Kubeflow | concerns: not marked open-to-work"
+CAND_0040887,47,0.9254,"Machine Learning Engineer (4.7yr) | strengths: Reinforcement Learning, Computer Vision"
+CAND_0057563,48,0.9252,"NLP Engineer (6.8yr) | strengths: Deep Learning, RAG | concerns: not marked open-to-work"
+CAND_0091909,49,0.9250,"Machine Learning Engineer (6.9yr) | strengths: LLMs, Image Classification"
+CAND_0066376,50,0.9248,"Applied ML Engineer (5.7yr) | strengths: Recommendation Systems, LoRA"
+CAND_0068811,51,0.9229,"Applied ML Engineer (8.0yr) | strengths: Vector Search, Speech Recognition"
+CAND_0047721,52,0.9218,"Senior Data Scientist (7.0yr) | strengths: Learning to Rank, Milvus | concerns: not marked open-to-work"
+CAND_0041610,53,0.9217,"Recommendation Systems Engineer (6.7yr) | strengths: OpenCV, LoRA"
+CAND_0076251,54,0.9204,"Search Engineer (7.6yr) | strengths: Fine-tuning LLMs, Hugging Face Transformers"
+CAND_0081053,55,0.9198,"NLP Engineer (5.4yr) | strengths: LoRA, QLoRA"
+CAND_0030031,56,0.9193,"AI Engineer (5.7yr) | strengths: Information Retrieval, PyTorch | concerns: not marked open-to-work"
+CAND_0095528,57,0.9182,"Senior Data Scientist (5.3yr) | strengths: OpenSearch, PyTorch"
+CAND_0039754,58,0.9173,"Senior Applied Scientist (16.2yr) | strengths: Fine-tuning LLMs, LlamaIndex"
+CAND_0018549,59,0.9165,"Recommendation Systems Engineer (6.8yr) | strengths: Weaviate, Elasticsearch"
+CAND_0096172,60,0.9163,"NLP Engineer (5.2yr) | strengths: OpenSearch, Haystack | concerns: not marked open-to-work"
+CAND_0075574,61,0.9145,Machine Learning Engineer (5.7yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0040117,62,0.9137,Recommendation Systems Engineer (6.5yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0065195,63,0.9137,Search Engineer (5.1yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0030348,64,0.9112,Machine Learning Engineer (4.5yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0098846,65,0.9112,AI Engineer (7.6yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0086151,66,0.9110,Recommendation Systems Engineer (7.7yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0054123,67,0.9109,Applied ML Engineer (4.7yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0049896,68,0.9107,Search Engineer (7.3yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0039383,69,0.9097,Applied ML Engineer (7.1yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0018722,70,0.9087,Recommendation Systems Engineer (6.6yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0061265,71,0.9087,Recommendation Systems Engineer (6.6yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0043228,72,0.9072,Applied ML Engineer (6.8yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0055992,73,0.9068,AI Engineer (16.9yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0007009,74,0.9047,Recommendation Systems Engineer (7.9yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0078002,75,0.9018,Machine Learning Engineer (6.3yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0033861,76,0.9010,Senior NLP Engineer (8.0yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0087630,77,0.9003,AI Engineer (7.2yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0053591,78,0.8999,AI Engineer (5.3yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0015578,79,0.8997,AI Engineer (5.4yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0042506,80,0.8982,Search Engineer (4.2yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0032515,81,0.8971,Machine Learning Engineer (5.1yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0094759,82,0.8965,Lead AI Engineer (8.6yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0094056,83,0.8963,NLP Engineer (5.9yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0044883,84,0.8935,AI Engineer (6.3yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0075439,85,0.8928,Machine Learning Engineer (4.3yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0000031,86,0.8913,Recommendation Systems Engineer (6.0yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0060072,87,0.8913,Staff Machine Learning Engineer (5.7yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0061339,88,0.8910,Search Engineer (4.2yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0096142,89,0.8905,Applied ML Engineer (5.0yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0026532,90,0.8899,Recommendation Systems Engineer (4.8yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0060054,91,0.8884,AI Engineer (6.4yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0093912,92,0.8878,Senior Data Scientist (5.3yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0051004,93,0.8869,Senior Data Scientist (4.7yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0020350,94,0.8858,AI Engineer (5.8yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0020708,95,0.8841,Search Engineer (4.2yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0051292,96,0.8841,Applied ML Engineer (5.2yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0084819,97,0.8803,Search Engineer (4.5yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0006557,98,0.8802,NLP Engineer (7.9yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0012957,99,0.8796,Search Engineer (4.9yr) — ranked low | adjacent profile but below threshold for top 60
+CAND_0030827,100,0.8792,Senior Data Scientist (5.4yr) — ranked low | adjacent profile but below threshold for top 60
