@@ -2,6 +2,9 @@
 
 ## Quick Start
 
+> [!IMPORTANT]
+> This repository uses Git LFS for the 464MB candidate dataset. Ensure you have [Git LFS](https://git-lfs.com/) installed, then run `git lfs pull` after cloning to download `data/candidates.jsonl`.
+
 ```bash
 # 1. Install dependencies
 pip install -r requirements.txt
@@ -72,25 +75,28 @@ That one command produces the complete, valid submission CSV.
 │   ├── behavioral.py          # Redrob signal scoring
 │   └── disqualifiers.py       # JD-specified anti-pattern penalties
 ├── data/
-│   ├── candidates.jsonl       # 100K candidate pool (not committed, user-provided)
-│   ├── sample_candidates.json # 50-candidate sample for testing
+│   ├── candidates.jsonl       # 100K candidate pool (Tracked via Git LFS, ~464MB)
 │   ├── validate_submission.py # Official validator
 │   └── ...                    # Challenge spec docs
 ├── submission_metadata.yaml   # Submission metadata (fill in your team details)
-├── requirements.txt
+├── requirements.txt           # Python dependencies
+├── app.py                     # Streamlit Sandbox UI
 └── README.md
 ```
 
-## Running on the sample (fast test)
+## Local Sandbox (Fast Test)
+
+A local Streamlit UI is provided to easily visualize and test the ranking pipeline without running the full dataset.
 
 ```bash
-# Run on the 50-candidate sample for a quick sanity check
-python rank.py --candidates data/sample_candidates.json --out sample_out.csv --format json
-python data/validate_submission.py sample_out.csv
+# Start the local sandbox
+streamlit run app.py
 ```
 
-## Sandbox
+The sandbox will automatically load the first 100 candidates from your `data/candidates.jsonl` file and display the ranking results, component scores, and AI-generated reasoning in an interactive table.
+
+## Hosted Sandbox
 
 A hosted Streamlit sandbox is available at: https://resume-ranker-v1.streamlit.app/
 
-It accepts a ≤100 candidate JSON sample, runs the ranker, and displays the ranked output with scores.
+It accepts a ≤100 candidate JSON/JSONL sample upload, runs the ranker, and displays the ranked output with scores.
